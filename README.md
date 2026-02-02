@@ -15,9 +15,6 @@
 ## 🧠 My Focus Areas
 - My current work focuses on enhancing data privacy and securing sensitive information within Large Language Models (LLMs).
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cheetah-lhp&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Cheetah-lhp&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Cheetah-lhp's GitHub Streak" width="49%" />
